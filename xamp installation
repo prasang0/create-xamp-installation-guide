@@ -1,0 +1,11 @@
+XAMPP INSTALLATION
+https://www.apachefriends.org/index.html
+
+1) Run file as executable file
+2) sudo ./file-name in Downloads terminal
+3) Next next steps
+
+
+For opening of the xampp control panel
+1) cd /opt/lampp/
+2) sudo ./manager-linux-x64.run
